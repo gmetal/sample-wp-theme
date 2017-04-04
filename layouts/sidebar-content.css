@@ -1,0 +1,23 @@
+/*
+ * Theme Name: sample-wp-theme
+ *
+ * Layout: Sidebar-Content
+ *
+ * Learn more: https://developer.wordpress.org/themes/basics/template-files/
+*/
+
+.content-area {
+	float: right;
+	margin: 0 0 0 -25%;
+	width: 100%;
+}
+.site-main {
+	width: 60%
+}
+.site-content .widget-area {
+	width: 20%
+}
+.site-footer {
+	clear: both;
+	width: 100%;
+}
